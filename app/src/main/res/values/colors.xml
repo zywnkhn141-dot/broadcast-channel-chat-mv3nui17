@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="accent">#FF9800</color>
+    <color name="bg_main">#F4F6F9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="admin_badge_bg">#FFF3E0</color>
+    <color name="admin_badge_text">#E65100</color>
+    <color name="user_badge_bg">#E8F5E9</color>
+    <color name="user_badge_text">#2E7D32</color>
+    <color name="reaction_bg">#F0F2F5</color>
+    <color name="reaction_bg_selected">#BBDEFB</color>
+</resources>

@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Rounded Background -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M16,0h64c8.84,0 16,7.16 16,16v64c0,8.84 -7.16,16 -16,16H16c-8.84,0 -16,-7.16 -16,-16V16C0,7.16 7.16,0 16,0z" />
+
+    <!-- Broadcast Megaphone / Speaker Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,32l-12,8H18c-2.2,0 -4,1.8 -4,4v8c0,2.2 1.8,4 4,4h8l12,8c2.4,1.6 6,-0.1 6,-3V35C44,32.1 40.4,30.4 38,32z" />
+
+    <!-- Megaphone Handle -->
+    <path
+        android:fillColor="#90CAF9"
+        android:pathData="M24,56v8c0,2.2 1.8,4 4,4h2c2.2,0 4,-1.8 4,-4v-8H24z" />
+
+    <!-- Broadcast Waves -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,36c4.4,4.4 4.4,11.6 0,16l3.5,3.5c6.4,-6.4 6.4,-16.6 0,-23L52,36z" />
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M60,28c8.8,8.8 8.8,23.2 0,32l3.5,3.5c10.8,-10.8 10.8,-28.2 0,-39L60,28z" />
+
+    <!-- Star Emblem / Admin Badge -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M74,68l-3.5,2.1 0.9,-3.9 -3,-2.6 4,-0.4 1.6,-3.7 1.6,3.7 4,0.4 -3,2.6 0.9,3.9z" />
+</vector>

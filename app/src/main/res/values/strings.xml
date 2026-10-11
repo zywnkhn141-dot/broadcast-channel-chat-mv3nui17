@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ערוץ השידור שלי</string>
+    <string name="channel_title">הערוץ הרשמי 📢</string>
+    <string name="channel_subtitle">עדכונים, הודעות וסקרים בלעדיים</string>
+    <string name="admin_mode">מצב מנהל (יוצר תוכן)</string>
+    <string name="user_mode">מצב צופה (Google)</string>
+    <string name="sign_in_google">התחבר עם חשבון Google</string>
+    <string name="sign_out">התנתק</string>
+    <string name="new_post_hint">כתוב עדכון חדש לערוץ...</string>
+    <string name="publish">פרסם בערוץ</string>
+    <string name="only_admin_can_post">רק מנהל הערוץ רשאי לפרסם תוכן</string>
+    <string name="tab_all">כל העדכונים</string>
+    <string name="tab_pinned">נעוצים 📌</string>
+    <string name="tab_saved">שמורים ⭐</string>
+    <string name="search_hint">חיפוש בערוץ...</string>
+    <string name="no_posts">אין עדכונים בערוץ כרגע</string>
+    <string name="comments_dialog_title">תגובות לעדכון</string>
+    <string name="add_comment_hint">הוסף תגובה לעדכון...</string>
+    <string name="send">שלח</string>
+    <string name="pin">נעץ</string>
+    <string name="unpin">בטל נעיצה</string>
+    <string name="delete">מחק</string>
+    <string name="save">שמור</string>
+    <string name="stats_subscribers">מנויים</string>
+    <string name="stats_posts">הודעות</string>
+</resources>
